@@ -110,13 +110,14 @@ h5 {
 ================================================== */
 
 body {
-	background: url(../images/intro_bg2.jpg) fixed;
+	background: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
+	background-color: black;
 }
 
 .separator {
-	background: url(../images/intro_bg2.jpg) fixed;
+	background: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100%;
@@ -297,7 +298,7 @@ span.logotext {
 ================================================== */
 
 #intro {
-	background: url(../images/intro_bg2.jpg) fixed;
+	background: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 560px;
@@ -377,7 +378,7 @@ span.cursive {
 }
 
 .serv_bg {
-	background: url(../images/intro_bg2.jpg) fixed;
+	background: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 130px;
@@ -883,7 +884,7 @@ p.proj_type {
 
 .copyright {
 	margin-top: -8px;
-	background: url(../images/intro_bg2.jpg) repeat fixed;
+	background: repeat fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	padding: 30px 0 5px 0;
