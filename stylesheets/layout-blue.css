@@ -1031,3 +1031,7 @@ p.proj_type {
 		}
 		
 	}
+
+	.grey_outline {
+		text-shadow: -0.5px 0 grey, 0 0.5px grey, 0.5px 0 grey, 0 -0.5px grey;
+	}
